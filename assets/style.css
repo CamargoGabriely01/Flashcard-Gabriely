@@ -66,7 +66,11 @@ font-weight: 700;
     font-size: 1vw;
     backface-visibility: hidden;
 }
-.cartao:hover .cartao__conteudo{
+
+.cartao__conteudo__pergunta,
+.cartao__conteudo__reposta{
+    backface-visibility: hidden;}
+    
+    .cartao:hover .cartao__conteudo{
     transform: rotateY(180deg);
 }
-        
