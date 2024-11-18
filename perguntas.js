@@ -1,52 +1,52 @@
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
 
 criaCartao(
     'astronomia',
     'qual o menor planeta do sistema solar?',
-    'mercúrio'
+    'Mercúrio'
+)
+criaCartao(
+    'astronomia',
+    'qual o planeta mais quente do sistema solar? ?',
+    'Vênus'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'astronomia',
+    'qual o planeta com 365 dias no ano?',
+    'Terra'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'astronomia',
+    'qual planeta é conhecido por sua coloração vermelha?',
+    'Marte'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'astronomia',
+    'qual o maior planeta do sistema solar?',
+    'Júpiter'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'astronomia',
+    'qual planeta é conhecido pelos seus anéis?',
+    'Saturno'
+)
+criaCartao(
+    'astronomia',
+    'qual planeta tem a órbita "deitada"?',
+    'Urano'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'astronomia',
+    'qual é o planeta mais distante do Sol no sistema solar?',
+    'Netuno'
+)
+
+criaCartao(
+    'astronomia',
+    'qual planeta anão deixou de fazer parte dos 8 planetas por ser muito pequeno?',
+    'plutão'
 )
