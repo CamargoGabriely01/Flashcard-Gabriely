@@ -6,7 +6,7 @@ criaCartao(
 )
 criaCartao(
     'astronomia',
-    'qual o planeta mais quente do sistema solar? ?',
+    'qual o planeta mais quente do sistema solar?',
     'Vênus'
 )
 
